@@ -1,4 +1,4 @@
-# Ant — Developer Portfolio
+# Santhosh Gandhi — Developer Portfolio
 
 A cinematic, responsive developer portfolio built with vanilla HTML, CSS and JavaScript.
 
@@ -15,7 +15,7 @@ A cinematic, responsive developer portfolio built with vanilla HTML, CSS and Jav
 Open `index.html` directly in a browser, or run:
 
 ```bash
-python -m http.server 5500
+
 ```
 
 Then visit http://localhost:5500
